@@ -106,7 +106,7 @@ def terribleturtle(color , girth):
 #   PUSH adds the changed work into your Github repository in the "cloud".
 #
 #   COMMIT-and-PUSH your work as often as you want, but at the least, commit
-#   and push after you have tested a module and believe that it is correct.
+#   and push after you have tested a module and believe that it is correct. 
 #
 ###############################################################################
 
